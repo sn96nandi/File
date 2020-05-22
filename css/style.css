@@ -1,0 +1,11 @@
+.body {
+	background-color: white;
+	background-position: inherit;
+}
+.navbar{
+	background-color: rgb(127, 71, 179);
+	position: fixed;
+}
+.navbar_ul{
+	padding-left: 600px;
+}
